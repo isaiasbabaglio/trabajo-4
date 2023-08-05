@@ -1,0 +1,19 @@
+*{ margin: 0%;}
+ .lunes{
+    color: chartreuse;
+    font-family:cursive;}
+ .martes{
+    color: darkgoldenrod;
+    font-family: 'Borel', cursive;}
+ .miercoles{
+    color: aqua; 
+    font-family:cursive;}
+ .jueves{
+    color: blueviolet;
+    font-family:cursive;}
+ .viernes{
+    color: darksalmon;
+    font-family:cursive;}
+ .savadoydomingo{
+     color: rgb(255, 93, 18);
+     font-family:cursive;}
